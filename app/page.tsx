@@ -32,7 +32,7 @@ export default function Home() {
             href="mailto:office@finecode.nl"
             className="px-4 text-gray-700 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
           >
-            office@finecode.nl
+            info@finecode.nl
           </a>
         </footer>
       </div>
